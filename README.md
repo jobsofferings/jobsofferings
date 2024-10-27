@@ -5,7 +5,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Hi, I'm Cooyue, a frontend engineer from Hangzhou, China 🇨🇳. I have four years of work experience, and I actually really enjoy rap and cats🐱.
 
+![](https://img.shields.io/badge/My%20Blog-Cooyue-brightgreen?labelColor=7D898B)
+<a href='https://www.cooyue.cn/archives/storybook-rollup-react-ui' target="_blank"><img src="https://img.shields.io/badge/My%20Blog-掘金-brightgreen?labelColor=7D898B" /></a>
+
 <a href="#"><img src="https://jobsofferings.oss-cn-hangzhou.aliyuncs.com/cooyue/20241027-115642.jpeg" width="150 " height="150" /></a>
+
+<!-- [![jobsofferings](https://github-readme-stats.vercel.app/api?username=jobsofferings)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## ✏️ Recent Blog
 
